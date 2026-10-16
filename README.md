@@ -12,7 +12,7 @@ Sono uno studente di **Informatica** e questo è l'inizio del mio portfolio tecn
 
 ## 👤 Qualcosa su di me
 
-- 🎓 **Studente ITIS**
+- 🎓 **Studente ITIS** (Indirizzo Informatica)
 - 🎮 **Gamer**
 - 🧠 **121+ QI**
 
@@ -70,6 +70,19 @@ Ho già avuto occasione di utilizzare o conoscere:
 ## 🎯 Guardando al futuro
 
 > *Boh...*
+
+<br>
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+## 🎬 Tokyo Ghoul Edit
+
+<p align="center">
+  <!-- Trascina qui il file 430233.mp4 nell'editor di GitHub -->
+  <video src="LINK_DEL_TUO_VIDEO_GITHUB" width="100%" controls></video>
+</p>
 
 <br>
 
