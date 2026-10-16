@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4bWl1OGd6anlmdWFlMTN4YW13aXJkMXBmaDN0aXN0MXR3azFmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uaOyZRVFLnFm/giphy.gif" alt="Tokyo Ghoul Banner" width="100%" />
+  <img src="banner.gif" alt="Tokyo Ghoul Banner" width="100%" />
 </p>
 
 # Ciao! 👋
@@ -75,21 +75,4 @@ Ho già avuto occasione di utilizzare o conoscere:
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-## 🎬 Tokyo Ghoul Edit
-
-<p align="center">
-  <!-- Trascina qui il file 430233.mp4 nell'editor di GitHub -->
-  <video src="LINK_DEL_TUO_VIDEO_GITHUB" width="100%" controls></video>
-</p>
-
-<br>
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzF1NW51a2ZudTB6eHRvdXkxc2M4MGZ0ZXF1Y2x3OTFnbGg1bGh2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwkKBc995GyACzu/giphy.gif" width="380px" alt="Kaneki Tokyo Ghoul" />
 </p>
